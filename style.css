@@ -61,7 +61,7 @@ body {
 .star-rating {
   height: 1.5em;
   width: 8.5em;
-  background-image: url("/images/icon-star.svg");
+  background-image: url("images/icon-star.svg");
   background-repeat: space;
   background-size: 1.5em auto;
 }
