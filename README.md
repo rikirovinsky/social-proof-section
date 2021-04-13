@@ -10,11 +10,9 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What I learnt](#what-i-learnt)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -46,7 +44,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
+### What I learnt
 
 I have learnt how to target specific part of the code in order to give it a specific format. It was a great experience to find how to use ID and Class in order to use a more versatile and copyable code.
 
